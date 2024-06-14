@@ -7,7 +7,7 @@ body, html {
 #navbar {
     position: fixed;
     width: 100%;
-    background-color: #333;
+    background-color: #03516d;
     color: white;
     top: 0;
     left: 0;
@@ -40,11 +40,11 @@ body, html {
 }
 
 #content {
-    padding-top: 60px; /* height of the navbar */
+    padding-top: 80px; /* height of the navbar */
 }
 
 section {
-    height: 100vh;
+    height: 60vh;
     padding: 20px;
 }
 
@@ -61,5 +61,5 @@ section {
 }
 
 #contact {
-    background-color: #bbb;
+    background-color: #023f54;
 }
