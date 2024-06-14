@@ -40,11 +40,11 @@ body, html {
 }
 
 #content {
-    padding-top: 80px; /* height of the navbar */
+    padding-top: 120px; /* height of the navbar */
 }
 
 section {
-    height: 60vh;
+    height: 20vh;
     padding: 20px;
 }
 
